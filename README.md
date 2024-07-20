@@ -1,3 +1,6 @@
+<img align="center" fit="fill" alt="JPG" src="https://telegra.ph/file/4af951452cb900c588792.jpg" />
+[![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)<br />
+
 ## New Update
 
 **Pembaruan :**
