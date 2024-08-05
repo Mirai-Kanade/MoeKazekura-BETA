@@ -70,7 +70,7 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/HalfyZodiac/MoeKazekura-BETA.git
+git clone https://github.com/Mirai-Kanade/MoeKazekura-BETA.git
 cd MoeKazekura-BETA
 npm i
 npm start
